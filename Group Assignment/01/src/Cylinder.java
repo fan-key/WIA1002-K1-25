@@ -9,11 +9,13 @@ public class Cylinder implements Shape {
         this.height = height;
     }
 
+    @Override
     public double calculateVolume() {
         volume = Math.PI*Math.pow(radius, 2)*height;
         return volume;
     }
 
+    @Override
     public double calculateSurfaceArea() {
         surfaceArea = 2*Math.PI*radius*(radius+height);
         return surfaceArea;

@@ -10,10 +10,6 @@ public class Main {
 
         Cone cone = new Cone(5, 10);
         System.out.printf("\nCone Volume: %.4f", cone.calculateVolume());
-        System.out.printf("\nCone Surface Area: %.4f", cone.calculateSurfaceArea());
-
-        
+        System.out.printf("\nCone Surface Area: %.4f", cone.calculateSurfaceArea()); 
     }
-
-
 }
