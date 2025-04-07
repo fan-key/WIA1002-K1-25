@@ -1,4 +1,4 @@
-public class Cylinder {
+public class Cylinder implements Shape {
     double radius;
     double height;
     double volume;
@@ -10,12 +10,12 @@ public class Cylinder {
     }
 
     public double calculateVolume() {
-        volume = Math.PI * Math.pow(radius, 2) * height;
+        volume = Math.PI*Math.pow(radius, 2)*height;
         return volume;
     }
 
     public double calculateSurfaceArea() {
-        surfaceArea = 2 * Math.PI * radius * (radius + height);
+        surfaceArea = 2*Math.PI*radius*(radius+height);
         return surfaceArea;
     }
 }

@@ -1,4 +1,4 @@
-public class Cone {
+public class Cone implements Shape {
     double radius;
     double height;
     double volume;
@@ -8,7 +8,7 @@ public class Cone {
         this.radius = radius;
         this.height = height;
     }
-
+    
     public double calculateVolume() {
         volume = (1.0 / 3.0) * Math.PI * Math.pow(radius, 2) * height;
         return volume;

@@ -7,11 +7,11 @@ public class Sphere implements Shape {
         this.radius = radius;
     }
     public double calculateVolume() {
-        volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
+        volume = (4.0/3.0)*Math.PI*Math.pow(radius, 3);
         return volume;
     }
     public double calculateSurfaceArea() {
-        surfaceArea = 4 * Math.PI * Math.pow(radius, 2);
+        surfaceArea = 4*Math.PI*Math.pow(radius, 2);
         return surfaceArea;
     }
 
