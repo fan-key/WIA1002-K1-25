@@ -1,7 +1,5 @@
 package Q1;
 
-import javax.swing.plaf.synth.SynthSplitPaneUI;
-
 public class TestLinkedList {
     public static void main(String[] args) {
         MyLinkedList<Character> list = new MyLinkedList<>();
@@ -44,7 +42,7 @@ public class TestLinkedList {
 
         System.out.println("middle value of list: " + list.getMiddleValue());
 
-
+        
 
         
     }
