@@ -1,18 +1,5 @@
-## Getting Started
+# Solutions for Lab 5 Stack
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Reference
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[![Tower of Hanoi: A Complete Recursive Visualizatio](https://ytcards.demolab.com/?id=rf6uf3jNjbo&title=Tower+of+Hanoi:+A+Complete+Recursive+Visualization&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=500&border_radius=10)](https://youtu.be/rf6uf3jNjbo?si=HeI8jtsuUBJGjgPU)
