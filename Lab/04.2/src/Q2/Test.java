@@ -50,6 +50,6 @@ public class Test {
 
         System.out.println("All students data captured complete");
 
-
+        sc.close();
     }
 }

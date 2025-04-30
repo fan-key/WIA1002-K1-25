@@ -1,3 +1,5 @@
+package Q2;
+
 public interface BidInterface {
     public String getName();
     public String getDescription();
