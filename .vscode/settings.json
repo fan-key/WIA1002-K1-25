@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
         "Tutorial/03/src/Graph",
+        "Lab/08/src/Q4",
         "Lab/08/src/Q1",
         "Lab/07/src",
         "Lab/06/src",
         "Group Assignment/02/src",
-        "Lab/08/src/Q4"
+        "Lab/09/src"
     ],
     "java.project.referencedLibraries": [],
     "java.debug.settings.onBuildFailureProceed": true
